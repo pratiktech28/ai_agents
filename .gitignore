@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Flask instance folder
+instance/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Python egg info
+*.egg-info/
+
+# Render deployment files (optional)
+render.yaml
+
+# Static assets (optional if generated externally)
+static/*.png
+static/*.jpg
