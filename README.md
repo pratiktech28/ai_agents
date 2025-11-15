@@ -57,8 +57,7 @@ A Flask-based web app with three intelligent agents:
 ## 📸 Extras
 
 - 🖼️ Thumbnail image  
-- 🔄 Workflow diagram  
-- 🎥 Video storyboard for recruiters  
+- 🔄 Workflow diagram    
 
 ---
 
